@@ -1,3 +1,3 @@
 # MaterialFractionalCover
 
-Code for implementing MESMSA for Carbon Mapper applications
+Code for implementing MESMA for Carbon Mapper applications
