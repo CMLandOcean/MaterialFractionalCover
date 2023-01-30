@@ -1,4 +1,4 @@
-# MaterialFractionalCover
+# Material Fractional Cover
 
 ## 1. Algorithm Description
 
